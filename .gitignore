@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Client data: NEVER commit real captures
+*.nx1
+*.NX1
+*.cfg
+_json_dump/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+backups/
+dumps/
+
+# Allow the synthetic sample fixture
+!samples/example_json_dump/
+!samples/example_json_dump/**

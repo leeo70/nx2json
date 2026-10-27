@@ -1,0 +1,4 @@
+[
+  {"ID": 1, "UID": "{c1c1c1c1-0000-0000-0000-000000000001}", "Nome": "Example Customer One", "CpfCnpj": "000.000.000-00", "Telefone": "0000-0000", "Email": "one@example.invalid", "Cidade": "Nowhere", "UF": "XX"},
+  {"ID": 2, "UID": "{c2c2c2c2-0000-0000-0000-000000000002}", "Nome": "Example Customer Two", "CpfCnpj": "000.000.000-00", "Cidade": "Nowhere", "UF": "XX"}
+]

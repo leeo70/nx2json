@@ -1,0 +1,4 @@
+[
+  {"ID": 1001, "UID": "{t1-0000-0000-0000-000000001001}", "DataHora": "2026-06-20T10:30:00", "Cliente": 1, "Total": 29.80, "TotLiq": 29.80, "Desconto": 0, "TipoTran": "V", "Cancelado": 0},
+  {"ID": 1002, "UID": "{t2-0000-0000-0000-000000001002}", "DataHora": "2026-06-20T11:15:00", "Cliente": 2, "Total": 49.90, "TotLiq": 49.90, "Desconto": 0, "TipoTran": "V", "Cancelado": 0}
+]

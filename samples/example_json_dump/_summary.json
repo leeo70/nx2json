@@ -1,0 +1,7 @@
+[
+  {"file": "Produto.nx1", "fields": 9, "reclen": 180, "records": 3, "base": 20, "slot": 180, "size_bytes": 8192, "status": "ok"},
+  {"file": "Cliente.nx1", "fields": 11, "reclen": 220, "records": 2, "base": 20, "slot": 220, "size_bytes": 4096, "status": "ok"},
+  {"file": "Tran.nx1", "fields": 11, "reclen": 160, "records": 2, "base": 20, "slot": 160, "size_bytes": 4096, "status": "ok"},
+  {"file": "MovEst.nx1", "fields": 18, "reclen": 240, "records": 3, "base": 20, "slot": 240, "size_bytes": 4096, "status": "ok"},
+  {"file": "TEF_Config.nx1", "status": "error", "error": "max() iterable argument is empty"}
+]

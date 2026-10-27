@@ -1,0 +1,5 @@
+[
+  {"uid_itran": "{i1}", "Tran": 1001, "Item": 1, "Produto": 1, "Descr": "Sample Widget A", "Quant": 2, "Unitario": 9.90, "Total": 19.80, "TipoTran": "V", "Cancelado": 0, "Pend": 0, "DataHora": "2026-06-20T10:30:00"},
+  {"uid_itran": "{i2}", "Tran": 1001, "Item": 2, "Produto": 2, "Descr": "Sample Widget B", "Quant": 1, "Unitario": 19.90, "Total": 19.90, "TipoTran": "V", "Cancelado": 0, "Pend": 0, "DataHora": "2026-06-20T10:30:00"},
+  {"uid_itran": "{i3}", "Tran": 1002, "Item": 1, "Produto": 3, "Descr": "Sample Gadget X", "Quant": 1, "Unitario": 49.90, "Total": 49.90, "TipoTran": "V", "Cancelado": 0, "Pend": 0, "DataHora": "2026-06-20T11:15:00"}
+]
